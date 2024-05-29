@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "633838698559",
+    "project_id": "storage-social-app",
+    "storage_bucket": "storage-social-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633838698559:android:205d44fc04bc5f9ba9788a",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633838698559-uble2sbulpedn122uue9gb7s6aldp9k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSxMM_BxlAJqDhoHdMQagh8ZoP9I8NjIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633838698559-uble2sbulpedn122uue9gb7s6aldp9k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633838698559:android:096b0b3f8b998743a9788a",
+        "android_client_info": {
+          "package_name": "com.appSocialApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633838698559-5qh6q32rrv73ot1h9meh6pv3v9mk04gm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appSocialApp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "633838698559-uble2sbulpedn122uue9gb7s6aldp9k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSxMM_BxlAJqDhoHdMQagh8ZoP9I8NjIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633838698559-uble2sbulpedn122uue9gb7s6aldp9k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
